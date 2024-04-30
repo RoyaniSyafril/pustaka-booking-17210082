@@ -29,6 +29,12 @@
  <?= $sks; ?>
  </td>
  </tr>
+ <td>Status MTK</td>
+ <td>:</td>
+ <td>
+ <?= $stts; ?>
+ </td>
+ </tr>
  <tr>
  <td colspan="3" align="center">
  <a href=<?= base_url('matakuliah'); ?>>Kembali<</a>
